@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abongiwe! </h1>
 
-<h2> Cybersecurity Projects Portfolio:</h2>
+<h2> Programming and Cybersecurity Portfolio:</h2>
 
 
 
